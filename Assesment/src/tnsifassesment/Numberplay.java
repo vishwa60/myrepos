@@ -14,7 +14,7 @@ public class Numberplay {
             int result = numberPuzzle.solvePuzzle(number);
             System.out.println("Result: " + result);
         } else {
-            System.out.println("Invalid number");
+            System.out.println("Invalid Number");
         }
 
         scanner.close();
